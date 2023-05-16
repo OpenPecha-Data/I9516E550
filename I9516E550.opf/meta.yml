@@ -1,0 +1,18 @@
+id: I9516E550
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:52.593880
+last_modified: 2023-01-04 11:30:52.593889
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  23AB:
+    title: Prayer for the Long Life of Namkhai Norbu Rinpoche
+    base_file: 23AB.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
